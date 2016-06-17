@@ -2,6 +2,16 @@ a{
 	color:black !important;
 }
 
+.link{
+	margin-bottom : 30px !important;
+	width : 70%;
+	margin-left : 15% !important;
+}
+
+.flat-list li a{
+	font-weight : normal !important;
+}
 .link .title{
 	font-size:small !important;
+	font-weight : 550 !important;
 }
