@@ -17,7 +17,8 @@
 	{
 		"matches": ["*://www.reddit.com/*"],
 		"css": ["lib/modules/remove_ads.css",
-			"lib/modules/font.css"
+			"lib/modules/font.css",
+			"lib/modules/links.css"
 			]
 	}
 		]
