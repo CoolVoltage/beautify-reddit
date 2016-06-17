@@ -3,15 +3,24 @@ a{
 }
 
 .link{
-	margin-bottom : 30px !important;
+	margin-top : 30px !important;
 	width : 70%;
 	margin-left : 15% !important;
 }
 
 .flat-list li a{
 	font-weight : normal !important;
+	color:rgb(153,153,153) !important;
+}
+
+.title .domain{
+	color:rgb(153,153,153) !important;
 }
 .link .title{
 	font-size:small !important;
 	font-weight : 550 !important;
+}
+
+.trending-subreddits{
+	display : none;
 }
