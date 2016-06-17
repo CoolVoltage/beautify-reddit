@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: 'AppleSansAdjectives';
+  src: url('chrome-extension://__MSG_@@extension_id__/lib/extras/AppleSansAdjectives.eot?#iefix') format('embedded-opentype'),  url('chrome-extension://__MSG_@@extension_id__/lib/extras/AppleSansAdjectives.woff') format('woff'), url('chrome-extension://__MSG_@@extension_id__/lib/extras/AppleSansAdjectives.ttf')  format('truetype'), url('chrome-extension://__MSG_@@extension_id__/lib/extras/AppleSansAdjectives.svg#AppleSansAdjectives') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+	font-family:'AppleSansAdjectives' !important;
+}

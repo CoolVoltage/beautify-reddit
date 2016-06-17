@@ -4,6 +4,10 @@
 	"name": "Beautify Reddit",
 	"description": "A chrome extension to beautify Reddit",
 	"version": "1.0",
+	
+	"web_accessible_resources":[
+		"lib/extras/*"
+		],
 
 	"browser_action":{
 		"default_icon": "icon.png"
@@ -12,8 +16,11 @@
 	"content_scripts":[
 	{
 		"matches": ["*://www.reddit.com/*"],
-		"css": ["lib/modules/remove_ads.css"]
+		"css": ["lib/modules/remove_ads.css",
+			"lib/modules/font.css"
+			]
 	}
 		]
+
 }
 
