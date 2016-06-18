@@ -22,7 +22,8 @@
 			"lib/modules/header.css"
 			],
 		"js": ["lib/jquery.min.js",
-			"lib/modules/sidePane.js"
+			"lib/modules/sidePane.js",
+			"lib/modules/infinite_scroll.js"
 			]
 	}
 		]
