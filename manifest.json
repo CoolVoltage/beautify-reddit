@@ -18,7 +18,8 @@
 		"matches": ["*://www.reddit.com/*"],
 		"css": ["lib/modules/remove_ads.css",
 			"lib/modules/font.css",
-			"lib/modules/links.css"
+			"lib/modules/links.css",
+			"lib/modules/header.css"
 			],
 		"js": ["lib/jquery.min.js",
 			"lib/modules/sidePane.js"

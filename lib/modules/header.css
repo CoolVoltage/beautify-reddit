@@ -1,0 +1,19 @@
+#sr-header-area{
+	background-color : transparent !important;
+	border-bottom : 0px solid gray !important;
+}
+
+.sr-list{
+	display : none;
+}
+
+#sr-more-link{
+	display : none;
+}
+
+/*#header-bottom-right{
+	top : 0px !important;
+	bottom : auto !important;
+	border-bottom-left-radius : 7px;
+	border-top-left-radius : 0px !important;
+}*/
